@@ -1,0 +1,28 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Manufacturer";"Mfg part";
+1;"U9";"LGA-12_STM";1;"LIS2DH12TR";"STMicroelectronics";"LIS2DUX12TR";
+2;"C13,C11,C30,C29,C5,C28,C4,C31,C6";"C_0402_1005Metric";9;"100nF";"Murata Electronics";"GMD155R71C104KA11D";
+3;"C12";"C_0402_1005Metric";1;"10uF";"KYOCERA AVX";"CM05X5R106M10AH";
+4;"C21,C25";"CP_Elec_4x3";2;"10uF";"Wurth Elektronik";"865060643005";
+5;"J2,J5,J3";"PinHeader_1x04_P1.27mm_Vertical";3;"Conn_01x04_Pin";"SAMTEC";"SAM1029-04-ND";
+6;"D1,D5,D2,D6,D4,D3";"LED_0603_1608Metric";6;"GREEN";"VISHAY";"TLMP1100-GS08";
+7;"R10,R9,R7,R18,R17";"R_0402_1005Metric";5;"4k7";"YAGEO";"RC0402JR-074K7L";
+8;"R2,R3";"R_0402_1005Metric";2;"0";"Panasonic Electronic Components";"ERJ-2GE0R00X";
+9;"U4";"DGK0008A_N";1;"TCA9517DGKRQ1";"Texas Instruments";"TCA9517DGKRQ1";
+10;"J4";"PinHeader_1x11_P1.27mm_Vertical";1;"Conn_01x11_Pin";"Adam Tech";"PH1-11-UA";
+11;"C24,C20,C2,C15,C8,C9,C18";"C_0402_1005Metric";7;"0.1uF";"TAIYO YUDEN";"MBASU105SB7104KFNA01";
+13;"C17,C16";"C_0402_1005Metric";2;"2.2nF";"KEMET";"C0402C222K5RACAUTO";
+14;"R11,R4";"R_0402_1005Metric";2;"10k";"VISHAY";"CRCW040210K0FKED";
+15;"J1";"USB_Micro-B_Wuerth_629105150521";1;"USB_B_Micro";"Wurth Elektronik";"629105150521";
+16;"U7";"TSSOP-20_4.4x6.5mm_P0.65mm";1;"PCM5102A";"Texas Instruments";"PCM5102APWR";
+17;"R12,R13,R8,R16,R19,R1";"R_0402_1005Metric";6;"1k";"VISHAY";"CRCW04021K00FKED";
+18;"C32,C19";"CP_Elec_5x5.3";2;"10uF";"Nichicon";"UWT1E100MCL1GB";
+20;"U8";"WSON-6-1EP_2x2mm_P0.65mm_EP1x1.6mm";1;"TMP117xxDRV";"Texas Instruments";"TMP117AIDRVR";
+21;"C1,C7,C27,C3,C26";"C_0805_2012Metric";5;"22uF";"YAGEO";"CC0805MKX5R7BB226";
+22;"SW3,SW1,SW2";"SW_SPST_B3U-1000P";3;"SW_Push";"Omron Electronics Inc-EMC Div";"B3U-1000P"
+23;"Q1";"SOT-363_SC-70-6";1;"UMH3N";"Jiangsu Changjing Electronics Technology Co., Ltd.";"UMH3N";
+24;"R14,R15";"R_0402_1005Metric";2;"470";"VISHAY";"CRCW0402470RFKED";
+25;"R6,R5";"R_0402_1005Metric";2;"1K";"VISHAY";"CRCW04021K00FKED.";
+26;"U1";"ESP32-WROOM-32E";1;"ESP32-WROOM-E";"Espressif Systems";"ESP32-WROOM-32E-N16";
+27;"U2";"SOIC-16_3.9x9.9mm_P1.27mm";1;"CH340C";"WCH(Jiangsu Qin Heng)";"CH340C";
+28;"J6";"microSD_HC_Hirose_DM3AT-SF-PEJM5";1;"Micro_SD_Card";"HIROSE;"DM3AT-SF-PEJM5";
+29;"U6,U3";"SOT-223-3_TabPin2";2;"AMS1117-3.3";"UMW";"AMS1117-3.3";
