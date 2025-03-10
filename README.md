@@ -4,6 +4,8 @@
 
 Custom PCB built around the **ESP32** microcontroller. The board integrates multiple sensors and modules, making it suitable for applications such as **data logging, motion tracking, FM transmission, and GNSS-based navigation**
 
+![Kicad screenshot](images/kicad_screenshot.png)
+
 ## Features
 - **ESP32-WROOM-E**
 - **TMP117AIDRVR Temperature Sensor**
