@@ -39,3 +39,7 @@ Custom PCB built around the **ESP32** microcontroller. The board integrates mult
 - Use the **ESP-IDF** or **Arduino IDE** to program the ESP32.
 - Implement communication with the sensors and peripherals via **I2C, UART, and SPI**.
 
+### 3. I2C Device addresses 
+    TMP117AIDRVR: 0x48
+    PCM5102: 0xC0
+    LIS2DH12TR: 0x19
