@@ -2,7 +2,7 @@
 
 ## Overview
 
-Custom PCB built around the **ESP32** microcontroller. The board integrates multiple sensors and modules, making it suitable for applications such as **data logging, motion tracking, FM transmission, and GNSS-based navigation**
+Custom PCB built around the **ESP32** microcontroller. The board integrates multiple sensors and modules, making it suitable for applications such as **data logging, motion tracking, FM transmission, and GNSS-based navigation**. Sample project using the [board](https://github.com/bjornfredlund/ESP32-Car-Dashboard) as a Car dashboard/telemetry unit, providing positiong, velocity, acceleration and bluetooth transmitting capabilities.
 
 ![Kicad screenshot](images/kicad_screenshot.png)
 
